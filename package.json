@@ -1,0 +1,19 @@
+{
+  "name": "contacts-project",
+  "version": "1.0.0",
+  "description": "Week 01. This class could be better.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrantBart/Contacts-Project.git"
+  },
+  "author": "Brant Barton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrantBart/Contacts-Project/issues"
+  },
+  "homepage": "https://github.com/BrantBart/Contacts-Project#readme"
+}
